@@ -3,11 +3,14 @@
 
 #modify values below
 #leave blank if not used
-maintainer="Name (nickname)" #ex: Lup Gabriel (gwolfu)
+cat "${CR_VERSION}"
+
+date="$(date +"%Y%m%d")"
+maintainer="SirRGB" #ex: Lup Gabriel (gwolfu)
 oem="OEM" #ex: OnePlus
 device="device codename" #ex: guacamole
 devicename="name of device" #ex: OnePlus 7 Pro
-zip="crdroid zip" #ex: crDroidAndroid-<android version>-<date>-<device codename>-v<crdroid version>.zip
+zip="crDroidAndroid-11.0-${date}-${device}-v${CR_VERSION}.zip" #ex: crDroidAndroid-<android version>-<date>-<device codename>-v<crdroid version>.zip
 buildtype="type" #choose from Testing/Alpha/Beta/Weekly/Monthly
 forum="" #https link (mandatory)
 gapps="" #https link (leave empty if unused)
@@ -19,7 +22,7 @@ paypal="" #https link (leave empty if unused)
 telegram="" #https link (leave empty if unused)
 
 #don't modify from here
-script_path="`dirname \"$0\"`"
+script_path="${WORKSPACE}"
 zip_name=$script_path/out/target/product/$device/$zip
 buildprop=$script_path/out/target/product/$device/system/build.prop
 
@@ -37,6 +40,7 @@ v_max=`echo "$version" | cut -d'.' -f1 | cut -d'v' -f2`
 v_min=`echo "$version" | cut -d'.' -f2`
 version=`echo $v_max.$v_min`
 
+echo ""
 echo '{
   "response": [
     {
@@ -61,3 +65,4 @@ echo '{
     }
   ]
 }' >> $device.json
+echo ""
