@@ -3,7 +3,6 @@
 
 #modify values below
 #leave blank if not used
-cat "${CR_VERSION}"
 
 date="$(date +"%Y%m%d")"
 maintainer="SirRGB" #ex: Lup Gabriel (gwolfu)
