@@ -1,0 +1,5 @@
+28th April 2022
+---------------
+add changelog url
+add devicesettings
+initial release
