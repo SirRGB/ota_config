@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+        "maintainer": "SirRGB",
+        "oem": "Nubia",
+        "device": "Mini 5G",
+        "filename": "crDroidAndroid-11.0-20220510-TP1803-v7.17.zip",
+        "download": "https://github.com/SirRGB/releases/releases/download/202205100334-crDroidAndroid-11.0-20220510-TP1803-v7.17/crDroidAndroid-11.0-20220510-TP1803-v7.17.zip",
+        "timestamp": 1652141433,
+        "md5": "1856e7cfb9cb7b32c21e2f0505c6225e",
+        "size": 937778798,
+        "version": "7.17",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/+hvji0wWvr9YyN2Ri",
+        "gapps": "",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "https://t.me/+hvji0wWvr9YyN2Ri"
+    }
+  ]
+}

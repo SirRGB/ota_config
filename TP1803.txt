@@ -1,0 +1,5 @@
+10th May 2022
+---------------
+fix fingerprint gestures
+enable fps info
+fix temperature devider
