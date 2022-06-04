@@ -1,0 +1,25 @@
+
+{
+  "response": [
+    {
+        "maintainer": "Keerthi Teja (xTeja)/SirRGB",
+        "oem": "OnePlus",
+        "device": "OnePlus 5",
+        "filename": "crDroidAndroid-12.1-20220604-cheeseburger-v8.5.zip",
+        "download": "https://github.com/SirRGB/releases/releases/download/202206041721-crDroidAndroid-12.1-20220604-cheeseburger-v8.5/crDroidAndroid-12.1-20220604-cheeseburger-v8.5.zip",
+        "timestamp": 1654355073,
+        "md5": "ad1c405a3f233d8d0b6d6c2a5f8723c6",
+        "size": 986252770,
+        "version": "8.5",
+        "buildtype": "Monthly",
+        "forum": "https://t.me/OP5T_flos_crdroid_updates",
+        "gapps": "",
+        "firmware": "https://sourceforge.net/projects/crdroid/files/cheeseburger/6.x/firmware/firmware_10.0.1_oneplus5.zip/download",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "https://paypal.me/xKeerthiTeja",
+        "telegram": "https://t.me/OP5T_flos_crdroid_updates"
+    }
+  ]
+}
