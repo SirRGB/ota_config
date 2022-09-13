@@ -1,3 +1,13 @@
+11th September 2022
+---------------
+upstream to 7.22
+
+9th September
+---------------
+upstream to 7.21
+add gapps
+fix ok google
+
 16th May 2022
 ---------------
 upstream to crdroid 7.18
