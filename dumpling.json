@@ -1,0 +1,24 @@
+{
+        "response": [
+                {
+                        "maintainer": "SirRGB",
+                        "oem": "OnePlus",
+                        "device": "OnePlus 5T",
+                        "filename": "crDroidAndroid-11.0-20220911-dumpling-v7.22.zip",
+                        "download": "https://sourceforge.net/projects/sirrgb-roms/files/Dumpling/CrDroid/crDroidAndroid-11.0-20220911-dumpling-v7.22-GAPPS.zip/download",
+                        "timestamp": 1662913893,
+                        "md5": "ebe97ef3988f26cd4ef9793627337105",
+                        "size": 1023985870,
+                        "version": "7.22",
+                        "buildtype": "Monthly",
+                        "forum": "https://t.me/OP5T_flos_crdroid_updates",
+                        "gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-11/",
+                        "firmware": "https://sourceforge.net/projects/crdroid/files/dumpling/6.x/firmware/firmware_10.0.1_oneplus5T.zip/download",
+                        "modem": "",
+                        "bootloader": "",
+                        "recovery": "https://dl.twrp.me/cheeseburger_dumpling/",
+                        "paypal": "https://paypal.me/xKeerthiTeja",
+                        "telegram": "https://t.me/OP5T_flos_crdroid_updates"
+                }
+        ]
+}
