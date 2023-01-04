@@ -1,2 +1,6 @@
+4th Jan 2023
+fix changelog overlay
+enable compact cashed app heaps
+
 27th Dec 2022
 Initial ota support
