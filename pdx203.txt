@@ -1,3 +1,6 @@
+5th Jan 2023
+fix bt audio
+
 4th Jan 2023
 fix changelog overlay
 enable compact cashed app heaps
