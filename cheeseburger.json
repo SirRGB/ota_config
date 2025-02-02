@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1738518997,
+      "datetime": 1738520298,
       "filename": "lineage-21.0-20250202-cheeseburger-signed.zip",
-      "id": "f7518902c9ed1e3e38503c751f91c36419633e5984e7270a030e46ac4fde9333  /droid_workdir/src/Los14/out/target/product/cheeseburger/lineage-21.0-20250202-cheeseburger-signed.zip",
+      "id": "f65c8c21812582268175b712e40ecd3d9f4e1f8d2941e1eebec3af21e09756de",
       "romtype": "UNOFFICIAL",
-      "size": 947121054,
-      "url": "custom_ota_url",
+      "size": 947125604,
+      "url": "https://github.com/SirRGB/releases/releases/download/202502021825-lineage-21.0-20250202-cheeseburger-signed/lineage-21.0-20250202-cheeseburger-signed.zip",
       "version": "21.0"
     }
   ]
