@@ -1,1 +1,13 @@
-{\n  "response": [\n    {\n      "datetime": 1738518007,\n      "filename": "lineage-21.0-20250202-cheeseburger-signed.zip",\n      "id": "afac3fd70d4702d94a9c8a8c5599f7abcf23a4403d94b0f221c2e345e9a47f0e  /droid_workdir/src/Los14/out/target/product/cheeseburger/lineage-21.0-20250202-cheeseburger-signed.zip",\n      "romtype": "UNOFFICIAL",\n      "size": 947117337,\n      "url": "custom_ota_url",\n      "version": "21.0"\n    }\n  ]\n}
+{
+  "response": [
+    {
+      "datetime": 1738518997,
+      "filename": "lineage-21.0-20250202-cheeseburger-signed.zip",
+      "id": "f7518902c9ed1e3e38503c751f91c36419633e5984e7270a030e46ac4fde9333  /droid_workdir/src/Los14/out/target/product/cheeseburger/lineage-21.0-20250202-cheeseburger-signed.zip",
+      "romtype": "UNOFFICIAL",
+      "size": 947121054,
+      "url": "custom_ota_url",
+      "version": "21.0"
+    }
+  ]
+}
