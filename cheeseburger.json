@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1747163704,
+      "datetime": 1747166839,
       "filename": "lineage-22.2-20250513-cheeseburger-signed.zip",
-      "id": "d32187e708aee3814bdcea00362f537f90da5a0a3a91cc139afb5678d98b960a",
+      "id": "b517781389def5d45892b37c29ec39351f837fc5a6647a253e0db37455a277d5",
       "romtype": "UNOFFICIAL",
-      "size": 1057084103,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202505132200-lineage-22.2-20250513-cheeseburger-signed/lineage-22.2-20250513-cheeseburger-signed.zip",
+      "size": 1057139455,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202505132252-lineage-22.2-20250513-cheeseburger-signed/lineage-22.2-20250513-cheeseburger-signed.zip",
       "version": "22.2"
     }
   ]
