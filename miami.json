@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1751307079,
-      "filename": "lineage-22.2-MICROG-20250630-miami-signed.zip",
-      "id": "2ab45a28cec6a02637c6c13b60f0596d66533df85ca41c4601f427f7f77b4a5e",
+      "datetime": 1751569313,
+      "filename": "lineage-22.2-MICROG-20250703-miami-signed.zip",
+      "id": "ba7f30d36d1b84359a78d1bb77793ee2bdc93830d3a691d6eacf1e78374fabbb",
       "romtype": "UNOFFICIAL",
-      "size": 1190146197,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202506301959-lineage-22.2-MICROG-20250630-miami-signed-1/lineage-22.2-MICROG-20250630-miami-signed.zip",
+      "size": 1190108112,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202507031901-lineage-22.2-MICROG-20250703-miami-signed/lineage-22.2-MICROG-20250703-miami-signed.zip",
       "version": "22.2"
     }
   ]
