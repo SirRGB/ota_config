@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1763579785,
-      "filename": "lineage-20.0-20251119-miatoll-signed.zip",
-      "id": "9e67299d747378243a6b3749ff31a68583fa594af9c92e2d6c89be916d175294",
+      "datetime": 1764178595,
+      "filename": "lineage-20.0-20251126-miatoll-signed.zip",
+      "id": "3c6b651cad2bd5cd70a88b19c4a6606929d6a5709015693acbb2ce17be2f6f6b",
       "romtype": "UNOFFICIAL",
-      "size": 1200882063,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202511191908-lineage-20.0-20251119-miatoll-signed/lineage-20.0-20251119-miatoll-signed.zip",
+      "size": 1200953393,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202511261733-lineage-20.0-20251126-miatoll-signed/lineage-20.0-20251126-miatoll-signed.zip",
       "version": "20.0"
     }
   ]
