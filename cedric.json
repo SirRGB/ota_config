@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1764282420,
+      "filename": "lineage-20.0-20251127-cedric-signed.zip",
+      "id": "50022d6f78d2ef89ed6df0d23dc3d593b0b0de11eb50ef9a1691a5a3333262a5",
+      "romtype": "UNOFFICIAL",
+      "size": 811832662,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202511272225-lineage-20.0-20251127-cedric-signed/lineage-20.0-20251127-cedric-signed.zip",
+      "version": "20.0"
+    }
+  ]
+}
