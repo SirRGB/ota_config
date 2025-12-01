@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1758825869,
-      "filename": "lineage-22.2-MICROG-20250925-cheeseburger-signed.zip",
-      "id": "15efac2b5318b0f1780a21060da8d801b3fafbfc84b89d60aa4f943f4f3e6197",
+      "datetime": 1764618844,
+      "filename": "lineage-23.0-20251201-cheeseburger-signed.zip",
+      "id": "08294facc35cdefa6ebe7284bac3e7c23fa3bedf49c212820c0b6a566aa5e8da",
       "romtype": "UNOFFICIAL",
-      "size": 1166799173,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202509251842-lineage-22.2-MICROG-20250925-cheeseburger-signed/lineage-22.2-MICROG-20250925-cheeseburger-signed.zip",
-      "version": "22.2"
+      "size": 1116035399,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202512011952-lineage-23.0-20251201-cheeseburger-signed/lineage-23.0-20251201-cheeseburger-signed.zip",
+      "version": "23.0"
     }
   ]
 }
