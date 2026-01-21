@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1769022748,
+      "filename": "lineage-20.0-20260121-poplar_dsds-signed.zip",
+      "id": "2aeaa0e1698976490aa69048ba73d60028a1020e99727b0b2b752c288279a0bf",
+      "romtype": "UNOFFICIAL",
+      "size": 910881926,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202601211837-lineage-20.0-20260121-poplar_dsds-signed/lineage-20.0-20260121-poplar_dsds-signed.zip",
+      "version": "20.0"
+    }
+  ]
+}
