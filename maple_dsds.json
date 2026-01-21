@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1769029956,
+      "filename": "lineage-20.0-20260121-maple_dsds-signed.zip",
+      "id": "fee56fefbe9c2105a6fafdd0cde42de48adf393ffdbf09ebb05c61e97a93cc60",
+      "romtype": "UNOFFICIAL",
+      "size": 909305073,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202601212005-lineage-20.0-20260121-maple_dsds-signed/lineage-20.0-20260121-maple_dsds-signed.zip",
+      "version": "20.0"
+    }
+  ]
+}
