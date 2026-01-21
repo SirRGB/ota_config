@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1769021589,
+      "filename": "lineage-20.0-20260121-poplar_kddi-signed.zip",
+      "id": "2801e0d048dc906e2059140e99caa5d77fbd9bda2b741a0fa8b3c19acfcd69ec",
+      "romtype": "UNOFFICIAL",
+      "size": 911363831,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202601211837-lineage-20.0-20260121-poplar_kddi-signed/lineage-20.0-20260121-poplar_kddi-signed.zip",
+      "version": "20.0"
+    }
+  ]
+}
