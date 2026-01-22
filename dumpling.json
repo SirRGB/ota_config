@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1764624218,
-      "filename": "lineage-23.0-20251201-dumpling-signed.zip",
-      "id": "f1c6b4d12e145f3ed2856b016c38d1a24b970c63bf05eceedcb1e13e5fbd1450",
+      "datetime": 1769081574,
+      "filename": "lineage-23.0-20260122-dumpling-signed.zip",
+      "id": "7605326bd6f25ce30cf3f6bbc6157704c0aa938b9a6f4b551b72a7de404409f8",
       "romtype": "UNOFFICIAL",
-      "size": 1115975229,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202512012102-lineage-23.0-20251201-dumpling-signed/lineage-23.0-20251201-dumpling-signed.zip",
+      "size": 1115206972,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202601221001-lineage-23.0-20260122-dumpling-signed/lineage-23.0-20260122-dumpling-signed.zip",
       "version": "23.0"
     }
   ]
