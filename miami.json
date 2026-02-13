@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1770989556,
+      "filename": "AICP21.2-MICROG-20260213-miami-signed.zip",
+      "id": "fe055d74ee4bb035535005be4a4a40d0fe9d73bcf8bfe60e16da18fcc0549dac",
+      "romtype": "UNOFFICIAL",
+      "size": 1526433376,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202602131332-AICP21.2-MICROG-20260213-miami-signed/AICP21.2-MICROG-20260213-miami-signed.zip",
+      "version": "21.2"
+    }
+  ]
+}
