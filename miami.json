@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1773767290,
+      "datetime": 1773773650,
       "filename": "AICP-w-21.2-MICROG-20260317-miami-signed.zip",
-      "id": "e01e1f33b8db02b13aea0dff93993faa74b69561899b25475d61c02f9b54f3c6",
+      "id": "69dd0cd2f76493ecf796ec852151197e5ca0dff6a767e339c123aaf1d9465945",
       "romtype": "UNOFFICIAL",
-      "size": 1680077653,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202603171705-AICP-w-21.2-MICROG-20260317-miami-signed/AICP-w-21.2-MICROG-20260317-miami-signed.zip",
+      "size": 1680075465,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202603171852-AICP-w-21.2-MICROG-20260317-miami-signed/AICP-w-21.2-MICROG-20260317-miami-signed.zip",
       "version": "w-21.2"
     }
   ]
