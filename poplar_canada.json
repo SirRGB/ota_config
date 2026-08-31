@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1769020675,
-      "filename": "lineage-20.0-20260121-poplar_canada-signed.zip",
-      "id": "6ea9e7bf57052fed83adc186f950fb25a3a5624121af3a71592c5ca6d4c9942e",
+      "datetime": 1788176681,
+      "filename": "lineage-20.0-20260831-poplar_canada-signed.zip",
+      "id": "3ac7515a57886496d751a6996e94f5acb2db992ee0e5e5aeafaa1c211c12421d",
       "romtype": "UNOFFICIAL",
-      "size": 910308057,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202601211837-lineage-20.0-20260121-poplar_canada-signed/lineage-20.0-20260121-poplar_canada-signed.zip",
+      "size": 916545377,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202608311144-lineage-20.0-20260831-poplar_canada-signed/lineage-20.0-20260831-poplar_canada-signed.zip",
       "version": "20.0"
     }
   ]
