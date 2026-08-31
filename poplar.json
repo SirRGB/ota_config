@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1768495485,
-      "filename": "lineage-20.0-20260115-poplar-signed.zip",
-      "id": "96c63796081b6a38a87561be680d16c500f2d92767ab135f0c73521c9312312d",
+      "datetime": 1788170858,
+      "filename": "lineage-20.0-20260831-poplar-signed.zip",
+      "id": "d6e35bf913bf1909768cf6c4bb3e25270197de933ce822e10e8e4b15c3450527",
       "romtype": "UNOFFICIAL",
-      "size": 910193691,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202601151621-lineage-20.0-20260115-poplar-signed/lineage-20.0-20260115-poplar-signed.zip",
+      "size": 917289263,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202608310945-lineage-20.0-20260831-poplar-signed/lineage-20.0-20260831-poplar-signed.zip",
       "version": "20.0"
     }
   ]
