@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1788181748,
-      "filename": "lineage-20.0-20260831-maple-signed.zip",
-      "id": "9ef414ff7a8bfc210b2b58f9ba110048b61206bb9425f7027656fdfbf3b4315d",
+      "datetime": 1790695537,
+      "filename": "lineage-20.0-20260929-maple-signed.zip",
+      "id": "fd227560c64c8d6afc4c693bc451bd0e4f515e922725bf2b429a644c1c20900c",
       "romtype": "UNOFFICIAL",
-      "size": 915528669,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202608311144-lineage-20.0-20260831-maple-signed/lineage-20.0-20260831-maple-signed.zip",
+      "size": 918439523,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202609291524-lineage-20.0-20260929-maple-signed/lineage-20.0-20260929-maple-signed.zip",
       "version": "20.0"
     }
   ]
