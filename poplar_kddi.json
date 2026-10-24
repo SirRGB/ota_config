@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1790625369,
-      "filename": "lineage-20.0-20260928-poplar_kddi-signed.zip",
-      "id": "b99858fe8b5302c536d80ebb3d75f8083dc241cfb97aaeb2420f88f89c3da961",
+      "datetime": 1792884174,
+      "filename": "lineage-20.0-20261024-poplar_kddi-signed.zip",
+      "id": "1a14388b472d7677ea4764f4f30da22125b1302638f4c5a4f5d4e6c1c99dce30",
       "romtype": "UNOFFICIAL",
-      "size": 919322393,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202609281830-lineage-20.0-20260928-poplar_kddi-signed/lineage-20.0-20260928-poplar_kddi-signed.zip",
+      "size": 921819824,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202610242305-lineage-20.0-20261024-poplar_kddi-signed/lineage-20.0-20261024-poplar_kddi-signed.zip",
       "version": "20.0"
     }
   ]
