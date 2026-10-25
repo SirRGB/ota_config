@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1790627493,
-      "filename": "lineage-20.0-20260928-lilac-signed.zip",
-      "id": "c7b6cf786481ece0ca6393ca3da1d2e9475e7d84d129cf9b280a3ffa7a2af47c",
+      "datetime": 1792963496,
+      "filename": "lineage-20.0-20261025-lilac-signed.zip",
+      "id": "58cd324891f25c103fb37df6e37633d721fc211b69c02da839271a4c009c74b9",
       "romtype": "UNOFFICIAL",
-      "size": 914201507,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202609281830-lineage-20.0-20260928-lilac-signed/lineage-20.0-20260928-lilac-signed.zip",
+      "size": 917905389,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202610252124-lineage-20.0-20261025-lilac-signed/lineage-20.0-20261025-lilac-signed.zip",
       "version": "20.0"
     }
   ]
