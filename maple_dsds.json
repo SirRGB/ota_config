@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1788183538,
-      "filename": "lineage-20.0-20260831-maple_dsds-signed.zip",
-      "id": "f6bf133b8e7b7644c3e12e696fb71fa29aa154330accfebc6d11e2f55a2054ed",
+      "datetime": 1792966755,
+      "filename": "lineage-20.0-20261025-maple_dsds-signed.zip",
+      "id": "6d70c5c2135b415b83678ced556512447c9f7a0f138fe849fd97e8f55bb976aa",
       "romtype": "UNOFFICIAL",
-      "size": 915407025,
-      "url": "https://github.com/SirRGB/ota_config/releases/download/202608311144-lineage-20.0-20260831-maple_dsds-signed/lineage-20.0-20260831-maple_dsds-signed.zip",
+      "size": 920949794,
+      "url": "https://github.com/SirRGB/ota_config/releases/download/202610252124-lineage-20.0-20261025-maple_dsds-signed/lineage-20.0-20261025-maple_dsds-signed.zip",
       "version": "20.0"
     }
   ]
